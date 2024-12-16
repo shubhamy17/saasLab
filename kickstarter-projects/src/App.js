@@ -1,5 +1,5 @@
 import React from "react";
-import TablePagination from "./tablePagination";
+import {TablePagination} from "./components/index";
 
 const App = () => {
     return (
